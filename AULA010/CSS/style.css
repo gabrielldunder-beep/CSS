@@ -1,0 +1,61 @@
+body {
+    /* Nome da cor */
+    /* background-color: red; */
+
+    /* Hexadecimal */
+    /* background-color: #ff0000; */
+
+    /* RGB */
+    /* background-color: rgb(255, 72, 133); */
+
+    /* RGB com transparência */
+    background-color: rgba(19, 241, 19, 0.3);
+}
+
+h1 {
+    color: chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 3em;
+    font-family: "Saira", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+p {
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    line-height: 2em;
+}
+
+span {
+    font-size: 2em;
+    color: red;
+}
+
+/*
+PX (pixels) é uma unidade fixa.
+O tamanho permanece o mesmo, independentemente do tamanho da tela.
+*/
+
+/*
+EM é uma unidade relativa ao tamanho da fonte.
+2em significa o dobro do tamanho da fonte base.
+3em significa o triplo do tamanho da fonte base.
+
+Controlar a grossura (Negrito) do texto:
+100 = Super Fino 
+400 = Normal 
+700 = Negrito
+900 = Super Negrito
+
+Strong = Dá ênfase na sua frase 
+*/
+    
